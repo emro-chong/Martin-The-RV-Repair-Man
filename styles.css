@@ -1,0 +1,265 @@
+
+body {
+  background-color: #d3e0dc;
+}
+div {
+  padding: 5px 50px
+}
+h1 {
+  font-family: montserrat, sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #fff;
+}
+h2 {
+  font-family: montserrat, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin: 15px;
+}
+h3 {
+  color: #0a043c;
+  font-family: montserrat, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 100;
+  line-height: .1;
+}
+h4 {
+  color: #fff;
+  font-family: Montaga, serif;
+  font-size: 1.25rem;
+}
+h5 {
+  color: #0a043c;
+  font-family: montserrat, sans-serif;
+  font-size: 1.3rem;
+}
+h6 {
+  font-family: montserrat, sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fff;
+}
+input[type=submit] {
+  background-color: #e7e6e1;
+  border: solid;
+  border-color: #487e95;
+  color: #487e95;
+  margin: 2%;
+}
+p {
+  font-family: Montaga, serif;
+  font-size: 1rem;
+  margin: auto 7%;
+}
+.address {
+  width: 100%;
+}
+.beginning {
+  font-family: montaga, serif;
+  font-size: 1.4rem;
+}
+.buttons {
+  font-family: montserrat, serif;
+  line-height: 3.5;
+  font-weight: 500;
+}
+.caption-text {
+  font-family: montaga, serif;
+  font-size: .6rem;
+}
+.carousel-control-next, .carousel-control-prev {
+  background: transparent;
+  border: none;
+}
+.city {
+  width: 17pc;
+}
+.contact-page {
+  padding: 0 10%;
+}
+.container-fluid {
+  padding: 0;
+}
+.copyright-tag {
+  font-size: 11px;
+}
+.fieldset-title {
+  font-family: montaga, serif;
+  font-size: 17px;
+  margin: 0;
+  color: #495464;
+}
+.footer {
+  background-color: #487e95;
+}
+.grid-link {
+  font-size: 20px;
+}
+.grid-photo {
+  border-radius: 8px;
+  height: 200px;
+  width: 250px;
+}
+.grid-photo:hover {
+  opacity: 0.5;
+}
+.growing-btn {
+  margin: 12% 5% 0;
+}
+.growing-btn:hover {
+  transform: scale(1.1) perspective(1px);
+}
+.half-page {
+  padding: 0;
+  margin: 0;
+}
+.Head {
+  background-color: #487e95;
+}
+.home-btn {
+  margin: 1%;
+}
+.index-contact {
+  margin: 2%;
+}
+.index-contact:link {
+  text-decoration: none;
+  color: #fff;
+}
+.index-contact:active {
+  text-decoration: none;
+  color: #fff;
+}
+.index-contact:visited {
+  text-decoration: none;
+  color: #fff;
+}
+.index-contact:hover {
+  text-decoration: none;
+  color: #03506f;
+}
+.justified {
+  text-align: justify;
+}
+.kit-title {
+  font-size: 1.2rem;
+  line-height: 2;
+  margin: 12% 0;
+}
+.left-header-div {
+  padding: 10%;
+  padding-left: 12%;
+  text-align: left;
+}
+.lighter-section {
+  background-color: #f8f1f1;
+}
+.link:link {
+  text-decoration: none;
+  color: #487e95;
+}
+.link:visited {
+  text-decoration: none;
+  color: #487e95;
+}
+.link:hover {
+  text-decoration: none;
+  color: #03506f;
+}
+.link:active {
+  text-decoration: none;
+  color: #487e95;
+}
+.main-photo {
+  border: solid 5px;
+  border-color: #487e95;
+  height: 550px;
+  margin-left: 5%;
+  width: 550px;
+}
+.med-size-photo {
+  border-radius: 20px;
+  height: 100%;
+  width: 100%;
+}
+.message {
+  height: 6pc;
+  width: 100%;
+}
+.navbar {
+  background-color: #487e95;
+  color: #d3e0ea;
+}
+.nav-link {
+  color: #d3e0ea;
+  font-size: 18px;
+  font-family: montserrat-100, sans-serif;
+}
+.nav-link:hover {
+  color: #03506f;
+}
+.phone3 {
+  width: 3pc;
+}
+.phone4 {
+  width: 4pc;
+}
+.required {
+
+}
+.review {
+  font-family: montserrat, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.review-image {
+  height: 30%;
+  width: 30%;
+  margin: 20%;
+}
+.review-sign {
+  font-family: kalam, sans-serif;
+
+}
+.row {
+  margin: auto 0;
+}
+.services {
+  margin: 0 10%;
+}
+.services-page-photo {
+  border-radius: 8%;
+  margin: 1% 2%;
+}
+.sub-menu-bar-btn:link {
+  color: #fff;
+  font-family: montaga, serif;
+}
+.sub-menu-bar-btn:hover {
+  color: #03506f;
+  font-family: montaga, serif;
+}
+.team-member-photo {
+  border-radius: 75px;
+  height: 150px;
+  width: 150px;
+}
+.team-member-photo:hover {
+  opacity: 0.5;
+}
+.zip {
+  margin-left: 1pc;
+  width: 6pc;
+}
+#body-contact:hover {
+  color: #fff;
+}
+#carousel-controls {
+
+}
+#RV-Repair-Guy-Logo {
+  margin: 0 10% 0 58%;
+}
